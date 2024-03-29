@@ -42,3 +42,6 @@ notification.mp3
 /test/results.xml
 coverage.xml
 **/tests/**/expectations
+webui-user.bat
+4.8.0
+*.bat
